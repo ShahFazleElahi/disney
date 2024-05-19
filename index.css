@@ -1,0 +1,1921 @@
+.blank-line,
+.content-and-platform,
+.disney-all-rights {
+  margin: 0;
+}
+.content-and-platform-container {
+  position: absolute;
+  top: 173.5px;
+  left: calc(50% - 149.3px);
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: inline-block;
+  width: 298.8px;
+}
+.disney-bundle,
+.disney-partner-program {
+  position: absolute;
+  top: 46px;
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  white-space: nowrap;
+}
+.disney-bundle {
+  left: 852.9px;
+  display: inline-block;
+  min-width: 80px;
+}
+.disney-partner-program {
+  left: 687.8px;
+}
+.about-us {
+  left: 611.1px;
+  min-width: 52px;
+  white-space: nowrap;
+}
+.about-us,
+.closed-captioning,
+.gift-disney,
+.help,
+.interest-based-ads,
+.supported-devices {
+  position: absolute;
+  top: 46px;
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: inline-block;
+}
+.gift-disney {
+  left: 517.2px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+.closed-captioning,
+.help,
+.interest-based-ads,
+.supported-devices {
+  left: 466.2px;
+  min-width: 27px;
+}
+.closed-captioning,
+.interest-based-ads,
+.supported-devices {
+  left: 334px;
+  min-width: 106px;
+  white-space: nowrap;
+}
+.closed-captioning,
+.interest-based-ads {
+  left: 203.7px;
+  min-width: 105px;
+}
+.closed-captioning {
+  left: 73.3px;
+  min-width: 104px;
+}
+.childrens-online-privacy,
+.do-not-sell {
+  position: absolute;
+  top: 8px;
+  left: 804.9px;
+  letter-spacing: 0.2px;
+  line-height: 22px;
+}
+.do-not-sell {
+  left: 576.4px;
+}
+.privacy-policy,
+.subscriber-agreement,
+.your-california-privacy {
+  position: absolute;
+  top: 8px;
+  left: 388.4px;
+  letter-spacing: 0.2px;
+  line-height: 22px;
+}
+.privacy-policy,
+.subscriber-agreement {
+  left: 289.4px;
+  display: inline-block;
+  min-width: 75px;
+}
+.subscriber-agreement {
+  left: 137.7px;
+  min-width: 124px;
+}
+.icon {
+  top: 0;
+  right: 0.8px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+  min-height: 22px;
+}
+.english,
+.icon,
+.icon1 {
+  position: absolute;
+}
+.english {
+  top: 0.3px;
+  left: 26.2px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 39px;
+}
+.icon1 {
+  top: 2px;
+  left: 0;
+  width: 18px;
+  height: 18.3px;
+  overflow: hidden;
+}
+.language {
+  position: absolute;
+  top: 7.7px;
+  left: 24.5px;
+  width: 92px;
+  height: 22.3px;
+  text-align: center;
+  color: rgba(249, 249, 249, 0.6);
+}
+.links {
+  position: absolute;
+  top: 79.5px;
+  left: calc(50% - 504px);
+  width: 1008px;
+  height: 76px;
+  text-align: left;
+}
+.logo-icon {
+  position: absolute;
+  top: calc(50% - 115.25px);
+  left: calc(50% - 40px);
+  width: 80px;
+  height: 43.5px;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  top: 5267.8px;
+  left: calc(50% - 512px);
+  width: 1024px;
+  height: 282.5px;
+}
+.h1,
+.what-is-the {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.h1 {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.what-is-the {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question {
+  width: calc(100% - 161.2px);
+  position: absolute;
+  top: 624.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  gap: var(--gap-xl);
+}
+.h11,
+.whats-included-on {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.h11 {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.whats-included-on {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question1 {
+  width: calc(100% - 161.2px);
+  position: absolute;
+  top: 530.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.h12,
+.where-can-i {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.h12 {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.where-can-i {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question2 {
+  position: absolute;
+  width: calc(100% - 161.2px);
+  top: 436.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  gap: var(--gap-xl);
+}
+.owner,
+.what-can-i {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.owner {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.what-can-i {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question3 {
+  position: absolute;
+  width: calc(100% - 161.2px);
+  top: 342.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  gap: var(--gap-xl);
+}
+.aag-gpc,
+.how-much-does {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.aag-gpc {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.how-much-does {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question4 {
+  position: absolute;
+  width: calc(100% - 161.2px);
+  top: 248.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  gap: var(--gap-xl);
+}
+.subtitle-label,
+.what-is-disney {
+  margin: 0;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.subtitle-label {
+  top: 22.8px;
+  left: 1227.9px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+}
+.what-is-disney {
+  top: 23.8px;
+  left: 23.9px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.question5 {
+  position: absolute;
+  width: calc(100% - 161.2px);
+  top: 154.6px;
+  right: 80.6px;
+  left: 80.6px;
+  background-color: var(--color-gray-100);
+  gap: var(--gap-xl);
+}
+.frequently-asked-questions {
+  margin: 0;
+  position: absolute;
+  top: 77.6px;
+  left: calc(50% - 260.1px);
+  font-size: var(--font-size-19xl);
+  line-height: 50px;
+  font-weight: 900;
+  font-family: inherit;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 520.3px;
+  max-width: 100%;
+}
+.faqs {
+  position: absolute;
+  top: 4484.5px;
+  left: 0;
+  width: 1440px;
+  height: 783.3px;
+  text-align: right;
+  font-size: var(--font-size-21xl);
+}
+.ps4,
+.ps5,
+.xbox-one,
+.xbox-series-s,
+.xbox-series-x {
+  margin: 0;
+}
+.game-consoles1,
+.ps4-ps5-xbox-container {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+}
+.ps4-ps5-xbox-container {
+  top: 218.8px;
+  left: calc(50% - 57.85px);
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  font-weight: 400;
+}
+.game-consoles1 {
+  width: 100%;
+  top: 162.8px;
+  left: calc(50% - 101.55px);
+  font-size: var(--font-size-8xl);
+  line-height: 38px;
+  font-weight: 900;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+}
+.device-image-icon {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 150.8px;
+  object-fit: cover;
+}
+.game-consoles {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: calc(50% + 337.7px);
+  min-width: 278px;
+  max-width: 302px;
+}
+.amazon-fire-tablets,
+.android-phones,
+.iphone-and-ipad {
+  margin: 0;
+}
+.amazon-fire-tablets-container {
+  margin: 0;
+  position: absolute;
+  top: 218.8px;
+  left: calc(50% - 106.55px);
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.mobile-tablet {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 162.8px;
+  left: calc(50% - 102.65px);
+  font-size: var(--font-size-8xl);
+  line-height: 38px;
+  font-weight: 900;
+  font-family: inherit;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+}
+.device-image-icon1 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 150.8px;
+  object-fit: cover;
+}
+.mobiletablet {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: calc(50% + 12px);
+  min-width: 278px;
+  max-width: 302px;
+}
+.chrome-os,
+.macos,
+.windows-pc {
+  margin: 0;
+}
+.chrome-os-macos-container,
+.computer1 {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+}
+.chrome-os-macos-container {
+  top: 218.8px;
+  left: calc(50% - 52.15px);
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+.computer1 {
+  width: 100%;
+  top: 162.8px;
+  left: calc(50% - 65.45px);
+  font-size: var(--font-size-8xl);
+  line-height: 38px;
+  font-weight: 900;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+}
+.computer,
+.device-image-icon2 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.device-image-icon2 {
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 150.8px;
+  object-fit: cover;
+}
+.computer {
+  left: calc(50% - 313.7px);
+  min-width: 278px;
+  max-width: 302px;
+}
+.amazon-fire-tv,
+.android-tv-devices,
+.appletv,
+.chromecast,
+.hisense,
+.lg-tv,
+.panasonic,
+.roku,
+.samsung,
+.xfinity-x1 {
+  margin: 0;
+}
+.amazon-fire-tv-container,
+.tv1 {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+}
+.amazon-fire-tv-container {
+  top: 218.8px;
+  left: calc(50% - 80.55px);
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+  font-weight: 400;
+}
+.tv1 {
+  width: 100%;
+  top: 162.8px;
+  left: calc(50% - 17.15px);
+  font-size: var(--font-size-7xl);
+  line-height: 38px;
+  font-weight: 900;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+  min-width: 34.4px;
+}
+.device-image-icon3 {
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 150.8px;
+  object-fit: cover;
+}
+.device-image-icon3,
+.devices,
+.tv {
+  width: 100%;
+  position: absolute;
+}
+.tv {
+  top: 0;
+  left: calc(50% - 639.4px);
+  min-width: 278px;
+  max-width: 302px;
+}
+.devices {
+  top: 154.6px;
+  left: 80.6px;
+}
+.available-on-your {
+  margin: 0;
+}
+.available-on-your-container1 {
+  width: 100%;
+}
+.available-on-your-container {
+  margin: 0;
+  position: absolute;
+  top: 77.6px;
+  left: calc(50% - 312.5px);
+  font-size: var(--font-size-19xl);
+  line-height: 50px;
+  font-weight: 900;
+  font-family: inherit;
+  color: var(--color-whitesmoke-100);
+  display: flex;
+  align-items: center;
+  width: 625.2px;
+  max-width: 100%;
+}
+.available-devices {
+  position: absolute;
+  top: 3696.4px;
+  left: 0;
+  width: 1440px;
+  height: 788.1px;
+  font-size: var(--font-size-lg);
+  color: var(--color-silver);
+}
+.image-icon {
+  position: absolute;
+  width: calc(100% - 161.2px);
+  top: 80.6px;
+  right: 80.6px;
+  left: 80.6px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 438.1px;
+  object-fit: cover;
+}
+.get-all-three,
+.terms-apply {
+  position: absolute;
+  font-weight: 500;
+}
+.terms-apply {
+  top: 189px;
+  left: 0.3px;
+  text-decoration: underline;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  display: inline-block;
+  min-width: 73.4px;
+}
+.get-all-three {
+  top: calc(50% - 8.8px);
+  left: calc(50% - 72.5px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: var(--font-avenir);
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-royalblue);
+  width: calc(100% - 0.6px);
+  position: absolute;
+  top: calc(50% - 10.6px);
+  right: 0.3px;
+  left: 0.3px;
+  border-radius: var(--br-9xs);
+}
+.button7:hover,
+.button8:hover,
+.button:hover,
+.disney-bundle1:hover {
+  background-color: var(--color-dodgerblue);
+}
+.get-your-favorite {
+  margin: 0;
+  position: absolute;
+  top: calc(50% - 102.6px);
+  left: 0.3px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.2px;
+  line-height: 34px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 542px;
+  max-width: 100%;
+}
+.cta {
+  position: absolute;
+  height: calc(100% - 394.1px);
+  top: 184.7px;
+  bottom: 209.4px;
+  left: 748.5px;
+  width: 591px;
+}
+.bundle-cta {
+  position: absolute;
+  top: 3097.1px;
+  left: 0;
+  width: 1440px;
+  height: 599.3px;
+  text-align: left;
+}
+.watch-the-way {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 900;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.host-virtual-movie-nights-with {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.host-virtual-movie-container {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.download-any-movie-or-series-a {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.download-any-movie-container {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 125px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.keep-your-family-safe-with-eas {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.keep-your-family-container1 {
+  width: 100%;
+}
+.keep-your-family-container {
+  margin: 0;
+  position: absolute;
+  top: 175px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 505px;
+  max-width: 100%;
+}
+.an-ever-growing-range-of-title {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.an-ever-growing-range-container {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 225px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.stream-on-up-to-four-devices-a {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.stream-on-up-container1 {
+  width: 100%;
+}
+.stream-on-up-container {
+  margin: 0;
+  position: absolute;
+  top: 305px;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 482px;
+  max-width: 100%;
+}
+.benefits-list {
+  width: 548px;
+  position: relative;
+  height: 335px;
+  font-size: var(--font-size-xl);
+  color: var(--color-silver);
+}
+.content {
+  position: absolute;
+  top: calc(50% - 214.55px);
+  left: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 28.8px var(--padding-xl);
+  gap: 24px;
+}
+.image-icon1 {
+  width: calc(100% - 800.6px);
+  position: absolute;
+  top: 80.6px;
+  right: 720px;
+  left: 80.6px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 511.8px;
+  object-fit: cover;
+  min-width: 415px;
+}
+.watch-anywhere {
+  position: absolute;
+  top: 2424px;
+  left: 0;
+  width: 1440px;
+  height: 673.1px;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+}
+.effective-at-the {
+  margin: 0;
+}
+.span {
+  color: var(--color-silver);
+}
+.terms-apply1 {
+  margin: 0;
+  color: var(--color-whitesmoke-100);
+}
+.effective-at-the-container1 {
+  width: 100%;
+}
+.effective-at-the-container {
+  position: absolute;
+  top: 756.8px;
+  left: calc(50% - 116.8px);
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  width: 233.8px;
+  color: var(--color-silver);
+}
+.select {
+  margin: 0;
+  position: absolute;
+  top: 18.5px;
+  left: calc(50% - 34.9px);
+  font-size: inherit;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 70px;
+}
+.button2 {
+  width: 100%;
+  position: absolute;
+  top: calc(50% + 5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue);
+}
+.span1 {
+  font-weight: 900;
+}
+.month1 {
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.month {
+  top: 16px;
+  left: 0;
+  line-height: 41px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.button1,
+.icon2,
+.month {
+  position: absolute;
+}
+.button1 {
+  top: 352px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 130px;
+}
+.icon2 {
+  height: 12.5px;
+  width: 15px;
+  margin: 0 !important;
+  top: 5.3px;
+  left: 1.5px;
+  z-index: 0;
+}
+.downloads-to-watch {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  z-index: 1;
+}
+.feature,
+.icon3 {
+  position: absolute;
+}
+.feature {
+  width: 100%;
+  top: 119.4px;
+  left: 0.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 37px 34px var(--padding-7xl);
+  box-sizing: border-box;
+}
+.icon3 {
+  height: 12.5px;
+  width: 15px;
+  margin: 0 !important;
+  top: 3.3px;
+  left: 1.5px;
+  z-index: 0;
+}
+.live-sports-and {
+  width: 209.3px;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.feature1 {
+  width: 100%;
+  position: absolute;
+  top: 61.4px;
+  left: 0.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-35xl-7) var(--padding-17xl) var(--padding-7xl);
+  box-sizing: border-box;
+}
+.icon4 {
+  height: 12.5px;
+  width: 15px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.3px;
+  left: 1.5px;
+  z-index: 0;
+}
+.thousands-of-shows {
+  width: 249.4px;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.feature2,
+.features {
+  width: 100%;
+  position: absolute;
+}
+.feature2 {
+  top: 1.4px;
+  left: 0.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini-6) var(--padding-17xl) var(--padding-7xl);
+  box-sizing: border-box;
+}
+.features {
+  top: 143.6px;
+  left: -0.5px;
+}
+.trio-premium1 {
+  margin: 0;
+  line-height: 38px;
+  font-weight: 900;
+}
+.no-ads-on {
+  margin: 0;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+}
+.trio-premium-no-container {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  color: var(--color-whitesmoke-100);
+  font-size: var(--font-size-8xl);
+}
+.details,
+.logos-icon {
+  position: absolute;
+  left: calc(50% - 145px);
+}
+.logos-icon {
+  top: calc(50% - 149.5px);
+  width: 172.5px;
+  height: 40px;
+  overflow: hidden;
+}
+.details {
+  top: 41px;
+  width: 290px;
+  height: 299px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.trio-premium {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: calc(50% + 214px);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  min-width: 285px;
+  max-width: 100%;
+}
+.select1 {
+  margin: 0;
+  position: absolute;
+  top: 18.5px;
+  left: calc(50% - 34.9px);
+  font-size: inherit;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 70px;
+}
+.button4 {
+  width: 100%;
+  position: absolute;
+  top: calc(50% + 5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue);
+}
+.span2 {
+  font-weight: 900;
+}
+.month3 {
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.month2 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  line-height: 41px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.button3 {
+  position: absolute;
+  top: 352px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 130px;
+}
+.thousands-of-shows1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  z-index: 0;
+}
+.icon5 {
+  height: 12.5px;
+  width: 15px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.3px;
+  left: 1.5px;
+  z-index: 1;
+}
+.feature3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini-6) var(--padding-17xl) var(--padding-7xl);
+  position: relative;
+}
+.live-sports-and1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  z-index: 0;
+}
+.icon6 {
+  height: 12.5px;
+  width: 15px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.3px;
+  left: 1.5px;
+  z-index: 1;
+}
+.feature4,
+.features1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.feature4 {
+  flex-direction: row;
+  padding: 0 var(--padding-35xl-7) var(--padding-17xl) var(--padding-7xl);
+  position: relative;
+  margin-top: -28px;
+}
+.features1 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  flex-direction: column;
+}
+.trio-basic1 {
+  margin: 0;
+  line-height: 38px;
+  font-weight: 900;
+}
+.with-ads {
+  margin: 0;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+}
+.trio-basic-with-container {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  color: var(--color-whitesmoke-100);
+  font-size: var(--font-size-8xl);
+}
+.logos-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 172.5px;
+  height: 40px;
+  overflow: hidden;
+}
+.details1 {
+  position: absolute;
+  top: 41px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 269px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.trio-basic {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 190px);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  min-width: 285px;
+  max-width: 100%;
+}
+.select2 {
+  margin: 0;
+  position: absolute;
+  top: 18.5px;
+  left: calc(50% - 34.9px);
+  font-size: inherit;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 70px;
+}
+.button6 {
+  width: 100%;
+  position: absolute;
+  top: calc(50% + 5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue);
+}
+.span3 {
+  font-weight: 900;
+}
+.month5 {
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.month4 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  line-height: 41px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+}
+.button5 {
+  position: absolute;
+  top: 352px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 130px;
+}
+.thousands-of-shows2 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  z-index: 0;
+}
+.icon7 {
+  height: 12.5px;
+  width: 15px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.3px;
+  left: 1.5px;
+  z-index: 1;
+}
+.features2 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini-6) var(--padding-17xl) var(--padding-7xl);
+}
+.duo-basic1 {
+  margin: 0;
+  line-height: 38px;
+  font-weight: 900;
+}
+.with-ads1 {
+  margin: 0;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+}
+.duo-basic-with-container {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  color: var(--color-whitesmoke-100);
+  font-size: var(--font-size-8xl);
+}
+.logos-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 173px;
+  height: 40px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.details2 {
+  position: absolute;
+  top: 41px;
+  left: calc(50% - 145px);
+  width: 290px;
+  height: 209px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.duo-basic {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: calc(50% - 594px);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  min-width: 285px;
+  max-width: 100%;
+}
+.plans1 {
+  position: absolute;
+  top: 218.8px;
+  left: 80.6px;
+  width: 1278.8px;
+  height: 523px;
+  font-size: var(--font-size-lg);
+}
+.disney-bundle2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-avenir);
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+  display: inline-block;
+  min-width: 103px;
+}
+.disney-bundle1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xs) 16.6px var(--padding-9xs) var(--padding-base);
+  background-color: var(--color-royalblue);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.disney {
+  position: relative;
+  line-height: 30px;
+  display: inline-block;
+  min-width: 59px;
+}
+.toggle {
+  position: absolute;
+  top: 146.8px;
+  left: calc(50% - 117.9px);
+  border-radius: 21px;
+  background-color: var(--color-darkslategray-100);
+  border: 5px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20.1px 0 5px;
+  gap: 16px;
+  font-size: var(--font-size-base);
+}
+.choose-your-plan,
+.switch-or-cancel {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  font-family: inherit;
+  display: inline-block;
+}
+.switch-or-cancel {
+  top: 93.8px;
+  left: calc(50% - 122.1px);
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2px;
+  line-height: 30px;
+  font-weight: 400;
+  color: var(--color-silver);
+}
+.choose-your-plan {
+  top: 25.8px;
+  left: calc(50% - 177.9px);
+  font-size: 43px;
+  line-height: 54px;
+  font-weight: 900;
+}
+.plans {
+  position: absolute;
+  top: 1476.6px;
+  left: 0;
+  width: 1440px;
+  height: 947.4px;
+}
+.andor-icon,
+.black-panther-wakanda-foreve,
+.encanto-icon,
+.fire-of-love,
+.turning-red-icon,
+.zootopia-icon {
+  position: absolute;
+  width: calc(100% - 869.8px);
+  top: 269.9px;
+  right: 1.5px;
+  left: 868.3px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.andor-icon,
+.black-panther-wakanda-foreve,
+.encanto-icon,
+.fire-of-love,
+.turning-red-icon {
+  right: 435.3px;
+  left: 434.5px;
+}
+.andor-icon,
+.black-panther-wakanda-foreve,
+.fire-of-love,
+.turning-red-icon {
+  right: 869.1px;
+  left: 0.7px;
+}
+.andor-icon,
+.black-panther-wakanda-foreve,
+.turning-red-icon {
+  top: 0;
+  right: 1.5px;
+  left: 868.3px;
+}
+.andor-icon,
+.black-panther-wakanda-foreve {
+  right: 435.3px;
+  left: 434.5px;
+}
+.black-panther-wakanda-foreve {
+  right: 869.1px;
+  left: 0.7px;
+}
+.trending-movies-shows {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  width: 1278.8px;
+  height: 515.8px;
+}
+.coming-soon,
+.new-on-disney,
+.trending1 {
+  margin: 0;
+  position: absolute;
+  top: 1px;
+  left: calc(50% + 90.7px);
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.new-on-disney,
+.trending1 {
+  left: calc(50% - 110.8px);
+}
+.trending1 {
+  width: 100%;
+  left: calc(50% - 50.85px);
+  display: inline-block;
+  min-width: 102.1px;
+  flex-shrink: 0;
+}
+.trending {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 241.3px);
+  border-bottom: 5px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 101.7px;
+}
+.streaming-examples,
+.tabs {
+  position: absolute;
+  width: 1278.8px;
+}
+.tabs {
+  top: 0;
+  left: 0;
+  height: 40px;
+  overflow: hidden;
+}
+.streaming-examples {
+  top: 727.8px;
+  left: 80.6px;
+  height: 720px;
+  font-size: var(--font-size-xl);
+}
+.background-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.view-all-plan {
+  margin: 0;
+  position: absolute;
+  top: 369.1px;
+  left: calc(50% - 99.6px);
+  font-size: inherit;
+  letter-spacing: 0.2px;
+  line-height: 27px;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-whitesmoke-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 199.3px;
+}
+.brand-logos-icon {
+  width: calc(100% - 39.4px);
+  position: absolute;
+  top: 305.7px;
+  right: 19.7px;
+  left: 19.7px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 33.6px;
+  object-fit: cover;
+}
+.all-of-these {
+  margin: 0;
+}
+.all-of-these-container1 {
+  width: 100%;
+}
+.all-of-these-container {
+  position: absolute;
+  top: 234.7px;
+  left: calc(50% - 139.9px);
+  font-size: var(--font-size-base);
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  width: 279.9px;
+}
+.terms-apply2 {
+  color: var(--color-whitesmoke-100);
+}
+.the-disney-bundle-container {
+  width: 100%;
+  position: absolute;
+  top: 258.7px;
+  left: calc(50% - 261.9px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: inline-block;
+}
+.get-all-three1 {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 70.75px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: var(--font-avenir);
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+}
+.button7,
+.image-icon2 {
+  width: 100%;
+  position: absolute;
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-royalblue);
+  top: 97.7px;
+  left: calc(50% - 153.85px);
+  border-radius: var(--br-9xs);
+  white-space: nowrap;
+}
+.image-icon2 {
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 68.9px;
+  object-fit: cover;
+}
+.bundle-2 {
+  position: absolute;
+  top: 20px;
+  left: calc(50% + 12px);
+  width: 307.7px;
+  height: 185.7px;
+}
+.get-them-both {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 77.65px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: var(--font-avenir);
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+}
+.button8,
+.image-icon3 {
+  width: 100%;
+  position: absolute;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-royalblue);
+  top: 97.7px;
+  left: calc(50% - 153.85px);
+  border-radius: var(--br-9xs);
+  white-space: nowrap;
+}
+.image-icon3 {
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 68.9px;
+  object-fit: cover;
+}
+.bundle-1,
+.ctas {
+  position: absolute;
+  left: calc(50% - 319.7px);
+}
+.bundle-1 {
+  top: 20px;
+  width: 307.7px;
+  height: 185.7px;
+}
+.ctas {
+  top: calc(50% - 199px);
+  width: 639.4px;
+  height: 398.1px;
+}
+.main-section {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-silver);
+  font-family: var(--font-avenir);
+}
+.body,
+.log-in {
+  color: var(--color-whitesmoke-100);
+}
+.body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 5267.8px;
+}
+.log-in {
+  position: relative;
+  font-size: var(--font-size-lg);
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-family: var(--font-avenir);
+  text-align: center;
+  display: inline-block;
+  min-width: 68px;
+}
+.button9 {
+  cursor: pointer;
+  border: 1px solid var(--color-silver);
+  padding: var(--padding-sm) 15px var(--padding-sm) var(--padding-base);
+  background-color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  top: calc(50% - 2765.15px);
+  left: 1298.2px;
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button9:hover {
+  background-color: rgba(51, 51, 51, 0.8);
+  border: 1px solid #8c8c8c;
+  box-sizing: border-box;
+}
+.disney-homepage {
+  width: 100%;
+  position: relative;
+  background-color: #040714;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+  font-family: var(--font-avenir);
+}
+@media screen and (max-width: 1050px) {
+  .aag-gpc,
+  .h1,
+  .h11,
+  .h12,
+  .owner,
+  .subtitle-label {
+    font-size: var(--font-size-13xl);
+    line-height: 24px;
+  }
+  .available-on-your-container,
+  .frequently-asked-questions,
+  .watch-the-way {
+    font-size: var(--font-size-11xl);
+    line-height: 40px;
+  }
+  .choose-your-plan {
+    font-size: 34px;
+    line-height: 43px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .game-consoles {
+    padding-bottom: 113px;
+    box-sizing: border-box;
+  }
+  .computer,
+  .mobiletablet {
+    padding-bottom: var(--padding-130xl);
+    box-sizing: border-box;
+  }
+  .image-icon1 {
+    min-width: 100%;
+  }
+  .duo-basic,
+  .trio-basic,
+  .trio-premium {
+    padding-top: var(--padding-6xl);
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .main-section {
+    gap: 49px;
+    padding-top: var(--padding-xl);
+    padding-bottom: 91px;
+    box-sizing: border-box;
+  }
+  .disney-homepage {
+    gap: 26px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .h1 {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .what-is-the {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .h11 {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .whats-included-on {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .h12 {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .where-can-i {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .owner {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .what-can-i {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .aag-gpc {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .how-much-does {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .subtitle-label {
+    font-size: var(--font-size-5xl);
+    line-height: 18px;
+  }
+  .what-is-disney {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .frequently-asked-questions {
+    font-size: var(--font-size-4xl);
+    line-height: 30px;
+  }
+  .computer1,
+  .game-consoles1,
+  .mobile-tablet {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .tv1 {
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .available-on-your-container {
+    font-size: var(--font-size-4xl);
+    line-height: 30px;
+  }
+  .get-your-favorite {
+    font-size: 19px;
+    line-height: 27px;
+  }
+  .watch-the-way {
+    font-size: var(--font-size-4xl);
+    line-height: 30px;
+  }
+  .an-ever-growing-range-container,
+  .download-any-movie-container,
+  .host-virtual-movie-container,
+  .keep-your-family-container,
+  .stream-on-up-container {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .duo-basic,
+  .trio-basic,
+  .trio-premium {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .duo-basic,
+  .trio-basic {
+    gap: 35px;
+  }
+  .duo-basic {
+    gap: 65px;
+  }
+  .switch-or-cancel {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .choose-your-plan {
+    font-size: var(--font-size-7xl);
+    line-height: 32px;
+  }
+  .coming-soon,
+  .new-on-disney,
+  .trending1,
+  .view-all-plan {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .view-all-plan {
+    line-height: 22px;
+  }
+  .button8 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .main-section {
+    gap: 25px;
+  }
+}
